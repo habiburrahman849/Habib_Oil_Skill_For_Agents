@@ -22,7 +22,7 @@ Five complete, production-ready 9:16 vertical video packages (Reels, TikTok, Sho
 | **0:24 - 0:28** | **Outro & CTA**: Brand owner holds the bottle toward camera with a friendly nod. WhatsApp green button pulsates on screen. | ابھی آرڈر کریں (واٹس ایپ) | "آج ہی اپنا پیک منگوانے کے لیے نیچے واٹس ایپ پر رابطہ کریں۔" | *"Aaj hi apna pack mangwane ke liye neeche WhatsApp par rabta karein."* |
 
 - **Regional Pashto Hook**: "که غواړئ چې وېښتان مو تل پياوړي او ښکلي وي، د رستم خالص HabibOil وکاروئ."
-- **Sound Design**: Soft acoustic rabab melody with subtle outdoor morning bird ambience.
+- **Sound Design**: Use `assets/backgroud_music_habiboil.mp3` as bed track ducked to -18dB under Urdu voiceover. Outro card features `assets/Habib_oil_song.mp3` signature stinger.
 - **AI Video Generator Prompt**:
   > `Cinematic 9:16 vertical video, 4k. A handsome, trustworthy Pakistani man in clean white traditional shalwar kameez (matching me.jpg) holding a small 250g amber-gold mustard oil bottle in a sunlit KPK veranda. Soft warm lighting, golden morning sun rays, wooden comb and brass bowl nearby. Photorealistic skin texture, natural genuine smile, shallow depth of field. 60fps.`
 
@@ -45,7 +45,7 @@ Five complete, production-ready 9:16 vertical video packages (Reels, TikTok, Sho
 | **0:25 - 0:30** | **Comment Debate Hook & CTA**: Split screen of kabab vs fried fish. | کمنٹ کریں: کباب یا مچھلی؟ | "آپ کو سرسوں کے تیل میں کباب پسند ہیں یا تلی ہوئی مچھلی؟ کمنٹ میں بتائیں اور آرڈر کے لیے میسج کریں!" | *"Aap ko sarson ke tel mein kabab pasand hain ya tali hui machli? Comment mein batayein aur order ke liye message karein!"* |
 
 - **Regional Pashto Hook**: "د پېښوري چپلي کبابو اصلي خوند په خالصو شړشمو تېلو کې دی!"
-- **Sound Design**: ASMR frying sizzle, crackling oil bubbles, upbeat modern Pashto rubab groove.
+- **Sound Design**: ASMR frying sizzle + crackle in intro, paired with `assets/backgroud_music_habiboil.mp3` (-20dB) and ending with `assets/Habib_oil_song.mp3` upbeat jingle CTA.
 - **AI Video Generator Prompt**:
   > `Cinematic 9:16 vertical food commercial, 4k. High-speed macro shot of golden seasoned Pakistani chapli kabab sizzling in a deep black iron karahi with glowing amber-yellow mustard oil. Sizzling bubbles, steam rising, warm restaurant kitchen lighting, fresh green chilies and sliced red tomatoes, premium culinary cinematography.`
 
@@ -69,7 +69,7 @@ Five complete, production-ready 9:16 vertical video packages (Reels, TikTok, Sho
 | **0:28 - 0:35** | Call to Action screen with delivery boxes and contact details. | گھر بیٹھے کیش آن ڈیلیوری | "اپنے خاندان کی صحت پر سمجھوتہ نہ کریں۔ اصلی تیل کی پہچان کریں اور ابھی آرڈر کے لیے واٹس ایپ کریں۔" | *"Apne khandan ki sehat par samjhota na karein. Asli tel ki pehchan karein aur abhi order ke liye WhatsApp karein."* |
 
 - **Regional Pashto Hook**: "د اصلي او نقلي شړشمو تېلو توپیر په دوو دقیقو کې وپېژنئ."
-- **Sound Design**: Dramatic tension riser in first 3 seconds, resolving into warm, reassuring acoustic guitar.
+- **Sound Design**: Suspenseful hook tone transitioning into `assets/backgroud_music_habiboil.mp3` for the educational reveal, resolving with `assets/Habib_oil_song.mp3` outro badge.
 - **AI Video Generator Prompt**:
   > `Photorealistic 9:16 vertical video. A Pakistani gentleman (matching me.jpg) conducting an oil purity demonstration in a sunlit wooden workshop. Two clear glasses with golden glowing liquid on table. Crisp details, honest warm gaze, cinematic lighting, 4k resolution.`
 
@@ -93,7 +93,7 @@ Five complete, production-ready 9:16 vertical video packages (Reels, TikTok, Sho
 | **0:25 - 0:30** | WhatsApp order graphic with discount banner. | فری ہوم ڈلیوری افر | "آج ہی 5 لیٹر پیک آرڈر کریں اور خصوصی رعایت حاصل کریں۔ واٹس ایپ نمبر اسکرین پر موجود ہے۔" | *"Aaj hi 5 litre pack order karein aur khusoosi riayat hasil karein. WhatsApp number screen par maujood hai."* |
 
 - **Regional Pashto Hook**: "د لویې کورنۍ د پخلي لپاره د HabibOil ۵ لیټره بوتل تر ټولو غوره او اقتصادي ټاکنه ده."
-- **Sound Design**: Warm, festive family ambiance, soft tabla and flute rhythm.
+- **Sound Design**: Warm festive dastarkhwan ambiance backed by `assets/backgroud_music_habiboil.mp3` (-18dB) with final `assets/Habib_oil_song.mp3` family jingle stinger.
 - **AI Video Generator Prompt**:
   > `Cinematic vertical 9:16 advertising shot. A large 5-liter yellow container with pristine printed HabibOil label standing on an authentic Pakistani wooden kitchen counter. Soft morning window light, steaming clay pot handi and fresh vegetables blurred in background. High-end commercial photography, 4k.`
 
@@ -116,6 +116,6 @@ Five complete, production-ready 9:16 vertical video packages (Reels, TikTok, Sho
 | **0:35 - 0:45** | Closer on brand owner's honest smile, placing hand on heart. Final animated logo card with WhatsApp number. | رستم کی پہچان، ہر گھر کی شان | "ہم صرف تیل نہیں بیچتے، اعتماد پہنچاتے ہیں۔ ابھی واٹس ایپ کریں اور خالص سرسوں کا تیل اپنے کچن کی زینت بنائیں۔" | *"Hum sirf tel nahi bechte, aetimad pohanchate hain. Abhi WhatsApp karein aur khalis sarson ka tel apne kitchen ki zeenat banayein."* |
 
 - **Regional Pashto Hook**: "له رستم څخه ستاسو تر کوره، د خالصو شړشمو تېلو يو باوري سفر."
-- **Sound Design**: Inspiring cinematic Pashto rabab and orchestral strings, uplifting and proud.
+- **Sound Design**: Inspiring cinematic bed using `assets/backgroud_music_habiboil.mp3` building to a grand crescendo with `assets/Habib_oil_song.mp3` brand anthem on final logo reveal.
 - **AI Video Generator Prompt**:
   > `Documentary-style vertical 9:16 video. Cinematic tracking shot of a Pakistani entrepreneur (matching me.jpg) walking through blooming golden yellow mustard fields in KPK Rustam mountains at golden sunrise. Then transitions to a clean modern stainless steel oil pressing workshop. Authentic, uplifting, warm color palette, 4k ultra-detailed.`
