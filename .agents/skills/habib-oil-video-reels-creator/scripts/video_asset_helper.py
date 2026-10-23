@@ -37,6 +37,8 @@ EXPECTED_ASSETS = [
     ("500ML Habiboil Mustard oil.png", "500ml Kitchen & Tarka SKU"),
     ("1 liter Habiboil Mustard oil.png", "1L Flagship Household Cooking SKU"),
     ("5 liter Habiboil Mustard oil.png", "5L Joint Family & Bulk Savings SKU"),
+    ("backgroud_music_habiboil.mp3", "Official HabibOil Background Music Track"),
+    ("Habib_oil_song.mp3", "Official HabibOil Brand Theme Song & Jingle"),
 ]
 
 # Standard Vertical Video Specs

@@ -17,6 +17,8 @@ All video projects must load from or reference files located in `assets/`:
 | `assets/500ML Habiboil Mustard oil.png` | 773 KB, PNG | **Kitchen Tarka & Small Household Hero**: Stood next to a hot tawa or iron karahi. Sits gracefully beside sliced onions, garlic, whole red chilies. |
 | `assets/1 liter Habiboil Mustard oil.png` | 815 KB, PNG | **Main Flagship SKU**: The standard family cooking bottle. Used in recipes, frying fish, chicken karahi, chapli kabab, saag preparation. |
 | `assets/5 liter Habiboil Mustard oil.png` | 886 KB, PNG | **Grand Family Can / Value Pack**: Symbol of abundance and economy for big joint families, wedding feasts, and winter bulk stock. |
+| `assets/backgroud_music_habiboil.mp3` | 4.3 MB, MP3 audio | **Official Video BGM Track**: Authentic ambient instrumental bed. Leveling: Duck to -18dB to -22dB beneath voiceover, swell to -8dB during silent visual reveals. |
+| `assets/Habib_oil_song.mp3` | 2.6 MB, MP3 audio | **Official Brand Song & Jingle**: High-energy musical signature track. Use for brand anthems, montage transitions, and hook/outro stingers. |
 
 ---
 

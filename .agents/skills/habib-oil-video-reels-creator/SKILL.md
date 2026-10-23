@@ -30,6 +30,8 @@ Every AI agent must reference and utilize these exact local files:
 | **5 Litre Can / Bottle** | `assets/5 liter Habiboil Mustard oil.png` | **Family Savings & Feasts**: Target audience: joint families, bulk monthly grocery, winter feasts, wedding seasons, maximum value per rupee. |
 | **Transparent Logo** | `assets/logo bes.png` | **Overlay Logo**: High-res cutout logo for top-right / top-center screen corner watermark. |
 | **Square Logo** | `assets/Logo.jpeg` | **Profile / End Card**: Brand card ending for outro screens and packaging badges. |
+| **Official Background Music** | `assets/backgroud_music_habiboil.mp3` | **Video Reel Bed Track**: Warm, acoustic ambient background music. Duck volume to -18dB to -22dB beneath Urdu voiceover. |
+| **Official Brand Song** | `assets/Habib_oil_song.mp3` | **Brand Anthem & Outro Jingle**: High-energy musical branding song for fast-paced montage reels, product hero transitions, and outro sign-offs. |
 
 ### Strict Product Integrity Rules:
 1. **Never Hallucinate Labels**: Do not alter, translate, or redraw the printed bottle label. The label on `assets/*.png` is the genuine Pakistani registered trademark.

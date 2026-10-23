@@ -15,7 +15,9 @@ Production-ready AI Agent Skill and Brand Assets for generating viral, high-conv
 │   ├── 250 gram Habiboil Mustard oil.png                 # Haircare & Scalp Massage SKU
 │   ├── 500ML Habiboil Mustard oil.png                    # Kitchen Helper & Tarka SKU
 │   ├── 1 liter Habiboil Mustard oil.png                  # Household Cooking Flagship SKU
-│   └── 5 liter Habiboil Mustard oil.png                  # Joint Family Bulk Savings SKU
+│   ├── 5 liter Habiboil Mustard oil.png                  # Joint Family Bulk Savings SKU
+│   ├── backgroud_music_habiboil.mp3                      # Official Video Reel BGM (ducked at -18dB)
+│   └── Habib_oil_song.mp3                                # Official Brand Theme Song & Outro Jingle
 │
 └── .agents/skills/habib-oil-video-reels-creator/          # AI Agent Skill Directory
     ├── SKILL.md                                          # Master Agent Runbook & Production Workflow
