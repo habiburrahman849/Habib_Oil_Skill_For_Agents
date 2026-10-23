@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "brand": "HabibOil",
+    "origin": "Rustam, Mardan, KPK, Pakistan",
+    "product": "Pure Cold-Pressed Mustard Oil (خالص سرسوں کا تیل)",
+    "target_aspect_ratio": "9:16 vertical (1080x1920)",
+    "supported_video_ai_engines": [
+      "Google Veo",
+      "Runway Gen-3 Alpha",
+      "Luma Dream Machine / Ray 2",
+      "Kling AI",
+      "Hailuo / Minimax",
+      "Pika Labs"
+    ]
+  },
+  "character_consistency": {
+    "reference_image": "assets/me.jpg",
+    "prompt_descriptor": "A handsome, trustworthy Pakistani man in his late 20s to mid 30s with neatly groomed short black beard, warm expressive dark brown eyes, authentic friendly smile, wearing traditional crisp clean Pakistani shalwar kameez (matching me.jpg character exactly). Honest, confident, approachable demeanor, natural skin texture with subtle pores and warmth, realistic lighting."
+  },
+  "product_consistency": {
+    "skus": {
+      "250g": {
+        "reference_file": "assets/250 gram Habiboil Mustard oil.png",
+        "description": "250 gram compact clear plastic bottle with authentic printed HabibOil label, yellow cap, filled with translucent golden amber mustard oil."
+      },
+      "500ml": {
+        "reference_file": "assets/500ML Habiboil Mustard oil.png",
+        "description": "500 milliliter medium kitchen bottle with authentic printed HabibOil label, yellow ribbed cap, glowing golden oil."
+      },
+      "1l": {
+        "reference_file": "assets/1 liter Habiboil Mustard oil.png",
+        "description": "1 litre standard household cooking bottle with signature ergonomic ribbed handle grip, authentic printed HabibOil label, filled with deep amber mustard oil."
+      },
+      "5l": {
+        "reference_file": "assets/5 liter Habiboil Mustard oil.png",
+        "description": "5 litre heavy-duty family can/bottle with sturdy top handle and large printed HabibOil label, golden liquid visible."
+      }
+    },
+    "logo_overlay": "assets/logo bes.png",
+    "anti_hallucination_rule": "Strictly keep bottle shapes, caps, and label artwork identical to reference PNG files. No invented logos or foreign brand text."
+  },
+  "prompt_templates": [
+    {
+      "id": "haircare_scalp_hero",
+      "title": "Haircare & Scalp Massage Hero Shot",
+      "duration_seconds": 5,
+      "camera_motion": "Slow smooth push-in with gentle rack focus",
+      "prompt": "Cinematic vertical 9:16 advertising video, 4k 60fps. Macro close-up of a 250 gram compact Habiboil mustard oil bottle with original label intact, sitting on a rustic wooden tray beside a handcrafted wooden comb and fresh green neem leaves. Soft morning sunlight filtering through veranda jali screen, warm golden rays highlighting the radiant amber liquid. Cinematic shallow depth of field, organic lifestyle aesthetic.",
+      "negative_prompt": "cartoon, plastic skin, distorted labels, blurry, deformed text, cold blue lighting, 16:9 widescreen"
+    },
+    {
+      "id": "chapli_kabab_sizzle",
+      "title": "Culinary ASMR Chapli Kabab Sizzle",
+      "duration_seconds": 5,
+      "camera_motion": "High-speed macro top-down tilting to 45 degrees",
+      "prompt": "Vertical 9:16 commercial food cinematography, 1000fps slow motion. Sizzling golden-brown Pakistani chapli kabab frying in hot shimmering amber mustard oil inside a traditional black cast-iron karahi. Delicate oil droplets exploding, vapor rising, fresh sliced green chilies and red tomato slices sizzling alongside. 1 Litre HabibOil bottle visible in soft background on stone counter. Warm atmospheric kitchen lighting.",
+      "negative_prompt": "burnt food, digital artifacts, low resolution, flat lighting, unrealistic motion"
+    },
+    {
+      "id": "founder_talking_head",
+      "title": "Founder Direct-to-Camera Trust Talk",
+      "duration_seconds": 6,
+      "camera_motion": "Steady eye-level portrait framing with subtle handheld motion",
+      "prompt": "Vertical 9:16 4k portrait video. The brand founder (matching me.jpg reference photo) wearing a crisp white cotton shalwar kameez, speaking directly to camera with a sincere, welcoming smile in a sunlit KPK courtyard. He holds the 1L Habiboil mustard oil bottle with its original label clearly facing the camera. Soft natural daylight, warm brick courtyard and green foliage softly blurred in background.",
+      "negative_prompt": "facial warping, synthetic uncanny valley, altered clothing, extra fingers, distorted eyes"
+    },
+    {
+      "id": "rustam_mustard_field_hero",
+      "title": "Rustam Scenic Mustard Field Drone Reveal",
+      "duration_seconds": 6,
+      "camera_motion": "Sweeping cinematic low crane tracking forward then tilting up",
+      "prompt": "Vertical 9:16 4k scenic cinematography. Sweeping golden hour view across lush blooming yellow mustard flower fields in Rustam, Mardan valley with misty KPK mountains in background. Golden hour sun rays hitting the yellow flowers. A smiling Pakistani farmer/entrepreneur walks along the field edge carrying a 5-liter HabibOil container. Breathtaking Pakistani rural landscape, rich vibrant natural colors.",
+      "negative_prompt": "desaturated, overcast, smoggy, modern skyscrapers, low fidelity"
+    },
+    {
+      "id": "golden_oil_stream_macro",
+      "title": "Pure Multi-Stage Filtered Oil Pour",
+      "duration_seconds": 4,
+      "camera_motion": "Ultra-macro tracking shot following the fluid flow",
+      "prompt": "Vertical 9:16 extreme macro shot. A viscous, radiant stream of crystal-pure golden mustard oil pouring in slow motion from a HabibOil bottle nozzle into a clear crystal glass bowl. Backlit by warm warm-toned directional light, making the liquid glow like melted amber. Micro bubbles rising, pure liquid refraction, hyper-clean aesthetic with no sediment.",
+      "negative_prompt": "murky liquid, water-like consistency, dark sludge, distorted reflections"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Ignore everything by default to keep the repo strictly focused on the Agent Skill & Assets
+*
+
+# Whitelist skill folders & files
+!.agents/
+!.agents/**
+
+# Whitelist brand & product assets
+!assets/
+!assets/**
+
+# Whitelist documentation and repository configuration
+!.gitignore
+!README.md
